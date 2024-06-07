@@ -1,0 +1,2 @@
+API Key: 7ed94e64-1fd8-44e0-9da6-cd606bcdb50b
+Proxy Endpoint: https://polite-ground-030dc3103.4.azurestaticapps.net/api/v1
